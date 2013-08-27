@@ -1,0 +1,3 @@
+LIBRARY unihami.dll
+EXPORTS
+	doSkip
